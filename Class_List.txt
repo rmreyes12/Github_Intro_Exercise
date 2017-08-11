@@ -1,6 +1,7 @@
 CMSC 100
 Section EF-5L
 
-Name				Student Number
+Name			               Student Number
 
 Fermin Roberto G. Lapitan	xxxx-40281
+Renz Amiel M. Reyes        2015-13855
